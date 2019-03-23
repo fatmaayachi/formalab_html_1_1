@@ -3,9 +3,17 @@
 }
 .parableu
 {
-    color: blue
+    color: blue;
 }
 #parared
 {
-    color: red
+    color: red;
+}
+.bleu
+{
+    color: blue;
+}
+p.vert
+{
+    color: green;
 }
