@@ -17,3 +17,9 @@ p.vert
 {
     color: green;
 }
+.vt{
+    color: green
+}
+.bord{
+    border: 1px solid green
+}
