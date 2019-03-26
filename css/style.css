@@ -32,12 +32,12 @@ a:hover{
 a:visited{
     color: grey;
 }
-p:{
+p{
     font-family: Arial, Helvetica, sans-serif;
 }
-h1:{
+h1{
     font-size: italic;
 }
-h2:{
+h2{
     font-weight: bolder;
 }
