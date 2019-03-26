@@ -41,3 +41,15 @@ h1{
 h2{
     font-weight: bolder;
 }
+h1{
+    background-color: rgba(255,0,5,0,0.5);
+}
+p {
+    opacity: 0.1;
+}
+
+body{
+    background-image: url("../tp1/image/image.PNG");
+    background-attachment: scroll;
+    background-repeat: no-repeat;
+}
