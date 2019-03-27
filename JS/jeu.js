@@ -1,5 +1,5 @@
 var a= Math.floor(Math.random() * 100) + 1;
-var nombre=Number(prompt("saisir votre nombre"));
+var nb=Number(prompt("saisir votre nombre"));
 var i=0;
 var test=1;
 while(i<8 && test==1)
