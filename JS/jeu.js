@@ -1,4 +1,4 @@
-var a=Math.floor(Math.random()*100+1);
+var a=Math.floor(Math.random()*100)+1;
 var nombre;
 var i=0;
 var test=1;
