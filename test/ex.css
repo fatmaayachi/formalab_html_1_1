@@ -1,15 +1,15 @@
-header{
-    color: #ff6600;
-    height: 30% ;
+.header{
+    background-color: #ff6600;
+    height: 200px ;
     width: 100% ;
 }
-section{
-    margin: 50% ;
-    height: 40% ;
+.section{
+    text-align: center;
+    height: 200px ;
     width: 100% ;
 }
-footer{
-    color: #4c4c4c;
-    height: 30% ;
+.footer{
+    background-color: #4c4c4c;
+    height: 200px;
     width: 100% ;
 }
